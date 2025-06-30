@@ -76,7 +76,8 @@ Some Benefits of Use Case diagrams are: Clear Communication: They provide a high
 Requirements Elicitation and Validation: They help in identifying, clarifying, and validating system requirements by focusing on what the system does for its users. This can uncover missing requirements or discrepancies early in the development cycle.
 
 Below is an image or visual of the Booking system usimg Draw.io
-<img width="689" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/0ec885fe-8639-4b49-b2c1-d50552814445" />
+alx-booking-uc.png
+<img width="689" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/0ec885fe-8639-4b49-b2c1-d50552814445"/>
 
 
 
