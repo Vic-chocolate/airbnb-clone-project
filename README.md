@@ -78,10 +78,7 @@ Requirements Elicitation and Validation: They help in identifying, clarifying, a
 Below is an image or visual of the Booking system usimg Draw.io
 alx-booking-uc.png
 
-![Use Case Diagram](./alx-booking-uc.png)
-
-
-
+![alx-booking-uc](https://github.com/user-attachments/assets/2da3cd7a-f924-4fef-952a-7ba9310d77c0)
 
 
 
